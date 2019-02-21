@@ -1,0 +1,8 @@
+name: ${project.name}
+version: ${project.version}
+main: org.totemcraft.unlimiteddispenser.UnlimitedDispenserPlugin
+author: i@thetd.me
+permissions:
+  unlimiteddispenser.access:
+    description: able to create or remove unlimited dispenser sign
+    default: op

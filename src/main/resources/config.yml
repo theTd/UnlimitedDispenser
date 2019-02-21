@@ -1,0 +1,2 @@
+# whether related blocks should be protected from explodes etc.
+protect-block: true
